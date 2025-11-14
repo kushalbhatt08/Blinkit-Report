@@ -1,26 +1,41 @@
-🛒 Blinkit Sales & Performance Dashboard
+# 🛒 Blinkit Sales & Performance Dashboard
 
-This Power BI Dashboard provides a comprehensive analysis of Blinkit’s business performance, focusing on sales, customer trends, and product insights.
-It empowers decision-makers to track key performance metrics, identify growth opportunities, and enhance operational efficiency.
+This **Power BI Dashboard** provides an in-depth analysis of Blinkit’s business performance, focusing on sales, customers, categories, and operational metrics.  
+It helps decision-makers track KPIs, identify growth opportunities, and improve overall efficiency.
 
-📊 Key Features
 
-Sales Overview – Tracks revenue, orders, and profit trends
+## 📊 Key Features
 
-Category Insights – Highlights top-performing products and categories
+### **1. Sales Overview**
+- Tracks overall revenue, total orders, and profit trends  
+- Visualizes performance over time
 
-Customer Analytics – Analyzes customer retention and location-based behavior
+### **2. Category Insights**
+- Identifies top-selling product categories  
+- Highlights contribution to total revenue
 
-Operational Metrics – Monitors delivery efficiency and regional performance
+### **3. Customer Analytics**
+- Examines customer retention and repeat purchase patterns  
+- Includes city-wise and region-wise behaviour analysis
 
-Interactive Filters – Drill down by city, category, or time period for detailed insights
+### **4. Operational Metrics**
+- Evaluates delivery efficiency (time, fulfilment rate, delays)  
+- Shows performance across different regions
 
-🧰 Built With
+### **5. Interactive Filters**
+- Drill down by **City**, **Category**, **Time Period**, or **Product**  
+- Enables detailed and dynamic insights
 
-Power BI
+---
 
-Power Query
+## 🧰 Built With
 
-DAX
+- **Power BI**  
+- **Power Query**  
+- **DAX (Data Analysis Expressions)**  
+- **Data Modelling & Visualization Techniques**
 
-Data Visualization & Modelling
+---
+
+## 📁 Project Structure
+
