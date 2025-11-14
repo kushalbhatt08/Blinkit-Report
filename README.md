@@ -37,5 +37,4 @@ It helps decision-makers track KPIs, identify growth opportunities, and improve 
 
 ---
 
-## 📁 Project Structure
 
